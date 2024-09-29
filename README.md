@@ -9,7 +9,7 @@ This Dart console application assigns a lucky number to each name input via comm
 dart --version
 
 # Clone the repository
-git https://github.com/camp1047/Dart-Hybrid2
+git clone https://github.com/camp1047/Dart-Hybrid2
 cd Dart-Hybrid2
 
 # Set environment variables for the range of lucky numbers
